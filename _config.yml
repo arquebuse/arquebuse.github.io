@@ -1,22 +1,4 @@
-title: Arquebuse
-email: info@arquebuse.io
-description: >- # this means to ignore newlines until "baseurl:"
-  Arquebuse is an email infrastructure testing tool designed 
-  to facilitate email flow diagnostic and monitoring.
-baseurl: ""
-url: arquebuse.io
-github_username:  arquebuse
-
-# Enable or disable the site search
-search_enabled: true
-
-# Set the search token separator for hyphenated-word search:
-search_tokenizer_separator: /[\s/]+/
-
-color_scheme: dark
-
-logo: "/assets/images/arquebuse.png"
-
-footer_content: "Copyright &copy; 2020 Arquebuse"
-
+title: "Remote theme example"
 remote_theme: pmarsceill/just-the-docs
+color_scheme: "dark"
+search_enabled: false
