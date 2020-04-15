@@ -45,3 +45,6 @@ logo: "/assets/images/arquebuse.png"
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# GA Tracking
+ga_tracking: UA-163729250-1
