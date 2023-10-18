@@ -22,6 +22,7 @@ github_username:  arquebuse
 
 # Theme
 theme: just-the-docs
+color_scheme: dark
 
 # Build settings
 markdown: kramdown
