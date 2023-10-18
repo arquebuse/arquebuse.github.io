@@ -21,7 +21,7 @@ url: https://arquebuse.io
 github_username:  arquebuse
 
 # Theme
-theme: just-the-docs
+theme: just-the-docs-default
 
 # Plugins
 plugins:
