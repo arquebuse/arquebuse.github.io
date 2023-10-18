@@ -7,4 +7,4 @@ permalink: /
 
 Arquebuse is tool to manage and distribute portable applications.
  
-Arquebuse is in its early development stage, please consult our [roadmap](https://github.com/orgs/arquebuse/projects/1).
+Arquebuse is in its early development stage, please consult our [roadmap](https://github.com/orgs/arquebuse/projects/2).
