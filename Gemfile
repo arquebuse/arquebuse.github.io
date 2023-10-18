@@ -30,4 +30,3 @@ gem "wdm", "~> 0.1.1" if Gem.win_platform?
 
 # Just the docs theme
 gem "just-the-docs"
-
