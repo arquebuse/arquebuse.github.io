@@ -16,6 +16,7 @@
 title: Arquebuse
 email: info@arquebuse.io
 description: Arquebuse is tool to manage and distribute portable applications.
+baseurl: ""
 url: https://arquebuse.io
 github_username:  arquebuse
 
