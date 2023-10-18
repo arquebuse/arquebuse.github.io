@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Home
-nav_order: 1
 description: "Arquebuse is tool to manage and distribute portable applications."
 permalink: /
 ---

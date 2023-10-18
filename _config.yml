@@ -23,27 +23,11 @@ github_username:  arquebuse
 
 # Build settings
 markdown: kramdown
-remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
 
-# Color scheme currently only supports "dark" or nil (default)
-# color_scheme: dark
-
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/images/arquebuse.png"
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
 
 # GA Tracking
 ga_tracking: UA-163729250-1
