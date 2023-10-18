@@ -4,6 +4,3 @@ gem "jekyll", "~> 4.3.2"
 
 # Just the docs theme
 gem "just-the-docs"
-
-# Jekyll Feed plugin
-gem "jekyll-feed"
